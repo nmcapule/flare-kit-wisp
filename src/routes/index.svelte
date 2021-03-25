@@ -8,7 +8,7 @@
 	<Counter />
 
 	<a href="/blog/123">/blog/123</a>
-	<a href="/test/123">/test/123</a>
+	<a href="/test/{Math.random() * 1000}">/test/rand</a>
 	<a href="/test">/test</a>
 </main>
 

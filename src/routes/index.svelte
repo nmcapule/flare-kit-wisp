@@ -7,7 +7,9 @@
 
 	<Counter />
 
-	<p>Visit <a href="https://svelte.dev">svelte.dev</a> to learn how to build Svelte apps.</p>
+	<a href="/blog/123">/blog/123</a>
+	<a href="/test/123">/test/123</a>
+	<a href="/test">/test</a>
 </main>
 
 <style lang="scss">
